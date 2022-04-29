@@ -1,4 +1,4 @@
-README: Generative Learning for Microbiome Data
+Generative Learning for Microbiome Data
 
 This directory includes example files for data cleaning, creation, and implementation of deep learning for microbiome data.
 Code was written in python version 3.7.0, using Tensorflow and Keras version 2.
